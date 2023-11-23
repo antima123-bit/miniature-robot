@@ -1,5 +1,6 @@
 # miniature-robot
 Implement and explain algorithms that use randomization for solving problems.
+
 (a)I Approach DSA in easy manner like i understand the problem then identify what are the input and output requirement.
 clearly understand what the function or algorithm that can be needed in problem and what should be its output.
 Design a proper flowchart which show the approchment process.
